@@ -4,8 +4,9 @@
 
 </div>
 
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=NYejin👊&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=shiny)](https://velog.io/@shinyejin0212) 
 <!--
 **shinyejin0212/shinyejin0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
