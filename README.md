@@ -6,9 +6,6 @@
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyejin0212&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyejin0212&layout=compact&theme=vue)
-
 <!--
 **shinyejin0212/shinyejin0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
