@@ -8,9 +8,8 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyejin0212&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyejin0212&layout=compact&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyejin0212&show_icons=true&theme=vue)
 
 
 <!--
