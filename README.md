@@ -1,6 +1,6 @@
 # Hi, I'm Eva. 🖐🏻 
-- BLOG — eva-world
-- EMAIL — shinyejin0212@gmail.com
+- BLOG — [eva-world](https://eva-world.vercel.app/)
+- EMAIL — [shinyejin0212@gmail.com](shinyejin0212@gmail.com)
 <br>
 
 ### Skills
