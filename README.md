@@ -5,8 +5,9 @@
 
 ### Skills
 - `JavaScript` | `TypeScript` | `HTML/CSS` | `Python`
-- `Next.js` | `React.js` | `Vue.js`
-- `Emotion` | `TailwindCSS` | `StoryBook` | `Figma`
+- `Next.js` | `React.js`
+- `React-Query` | `Recoil`
+- `Emotion` | `Sass(Scss)` | `StoryBook` | `Figma` | `Framer` | `Jira`
 
 <br>
 
