@@ -3,6 +3,13 @@
 - EMAIL | [shinyejin0212@gmail.com](shinyejin0212@gmail.com)
 <br>
 
+## I am..
+- 명확하게 질문하기가 성장의 가장 빠른 걸음”이라는 신념을 가지고 있습니다.
+- 비즈니스 성장에 기여하는 일을 최우선으로 합니다.
+- 제품의 개선과 사용자 경험 증대에 관심이 많습니다.
+
+<br>
+
 ### Skills
 - `JavaScript` | `TypeScript` | `HTML/CSS` | `Python`
 - `Next.js` | `React.js`
