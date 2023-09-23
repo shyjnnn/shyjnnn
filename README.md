@@ -1,6 +1,6 @@
 # Hi, I'm Eva. 🖐🏻 
-- BLOG — [eva-world](https://eva-world.vercel.app/)
-- EMAIL — [shinyejin0212@gmail.com](shinyejin0212@gmail.com)
+- BLOG | [EVA WORLD](https://eva-world.vercel.app/)
+- EMAIL | [shinyejin0212@gmail.com](shinyejin0212@gmail.com)
 <br>
 
 ### Skills
@@ -28,7 +28,7 @@
 - **[THE-JULGE](https://0-the-julge-young-developers.vercel.app) (Frontend)**  
     - 급전이 필요한 아르바이생과 일손이 필요한 사장님을 위한 매칭 플랫폼. [GITHUB](https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers)
 - **[CRYPTOMETER](https://cryptometer.netlify.app) (Frontend)**  
-    암호화폐 가치 변동 추적 플랫폼. [GITHUB](https://github.com/shyjnnn/0-crypto-meter-team-leaders)
+    - 암호화폐 가치 변동 추적 플랫폼. [GITHUB](https://github.com/shyjnnn/0-crypto-meter-team-leaders)
 - **[LINKBRARY](https://evalinkbrary.netlify.app) (Frontend)**
     - URL 관리 플랫폼. [GITHUB](https://github.com/codeit-bootcamp-frontend/Weekly-Mission/tree/eva-react)
 #### 2022
