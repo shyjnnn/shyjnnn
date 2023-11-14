@@ -1,5 +1,5 @@
 # Hi, I'm Eva. 🖐🏻 
-- BLOG | [EVA WORLD](https://eva-world.vercel.app/)
+- BLOG | [Shyjnnn.dev](https://shyjnnn-dev.vercel.app/)
 - EMAIL | [shinyejin0212@gmail.com](shinyejin0212@gmail.com)
 <br>
 
